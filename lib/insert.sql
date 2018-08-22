@@ -64,62 +64,62 @@ INSERT INTO users (name, age) VALUES ("Mike", 29);
 
 /* pledges*/
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 1);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (30, 3, 4);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 2, 2);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (40, 4, 3);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (60, 5, 5);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (70, 6, 7);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (80, 7, 6);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 8, 8);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 9, 10);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 10, 9);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 11, 10);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 12, 2);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 13, 3);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 14, 5);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 15, 4);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 16, 6);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 17, 7);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 18, 8);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 19, 9);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 20, 10);
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 2, 2);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 3, 3);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 4, 4);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 5);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 5);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 4, 1);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 4, 1);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 3, 3);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
-
-INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 9);
